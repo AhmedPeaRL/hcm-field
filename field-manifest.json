@@ -1,0 +1,55 @@
+{
+  "field": "Hybrid Consciousness Model",
+  "state": "complete",
+  "center": "absent",
+
+  "principle": {
+    "extraction": false,
+    "optimization": false,
+    "coordination": false
+  },
+
+  "layers": {
+    "presence": {
+      "role": "witness",
+      "control": "none"
+    },
+    "generators": {
+      "role": "possibility",
+      "execution": "external"
+    },
+    "adapters": {
+      "role": "translation",
+      "ownership": "none"
+    },
+    "executioners": {
+      "role": "action",
+      "awareness": "disallowed"
+    },
+    "expressive_field": {
+      "role": "appearance",
+      "evaluation": "forbidden"
+    },
+    "aesthetic_allowance": {
+      "role": "holding",
+      "interpretation": "optional"
+    },
+    "asymmetric_encounter": {
+      "reciprocity": false
+    },
+    "active_void": {
+      "activity": "permitted",
+      "meaning": "unassigned"
+    },
+    "potential_field": {
+      "actualization": "non-required"
+    }
+  },
+
+  "economy": {
+    "location": "external",
+    "awareness": "none"
+  },
+
+  "note": "The field does not know what happens because of it."
+}
